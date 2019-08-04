@@ -1,3 +1,3 @@
-define(function() {
-    return '&#8203;';
+define(function () {
+	return '&#8203;';
 });

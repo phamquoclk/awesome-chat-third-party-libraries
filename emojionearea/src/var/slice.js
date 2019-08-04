@@ -1,3 +1,3 @@
-define([], function() {
-    return [].slice;
+define([], function () {
+	return [].slice;
 });

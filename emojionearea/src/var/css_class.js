@@ -1,3 +1,3 @@
-define(function() {
-    return "emojionearea";
+define(function () {
+	return "emojionearea";
 });
