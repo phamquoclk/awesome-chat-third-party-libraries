@@ -1,0 +1,13 @@
+{
+  "name": "bower_components",
+  "homepage": "https://github.com/phamquoclk/awesome-chat-third-party-libraries",
+  "_release": "aaf6247125",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "aaf6247125ef0d987ecec3ac37b97977bfe6d717"
+  },
+  "_source": "https://github.com/phamquoclk/awesome-chat-third-party-libraries.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/phamquoclk/awesome-chat-third-party-libraries.git"
+}
